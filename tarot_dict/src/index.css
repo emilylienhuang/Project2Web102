@@ -72,6 +72,7 @@ button:focus-visible {
   width: 300px;
   height: 200px;
   margin: 1rem;
+  padding: 30px;
   cursor: pointer;
 }
 
@@ -84,7 +85,7 @@ button:focus-visible {
 }
 
 .flashcard.flipped {
-  transform: rotateY(180deg);
+  transform: rotateX(180deg);
 }
 
 .flashcard-face {
@@ -104,6 +105,17 @@ button:focus-visible {
   text-align: center;
   user-select: none;
 }
+.flashcard-face p,
+.flashcard-face h2,
+.flashcard-face ul {
+  margin-bottom: 0.75rem;
+  text-align: left;
+}
+.flashcard-face {
+  padding: 1.2rem;
+}
+
+
 
 .flashcard-front {
   background-color: #4a4e69;
@@ -111,7 +123,7 @@ button:focus-visible {
 
 .flashcard-back {
   background-color: #9a8c98;
-  transform: rotateY(180deg);
+  transform: rotateX(180deg);
 }
 
 

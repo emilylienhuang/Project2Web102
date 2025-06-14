@@ -1,4 +1,4 @@
-const majorArcana = [
+export const majorArcana = [
   {
     "title": "The Fool",
     "description_upright": "New beginnings, spontaneity, adventure, innocence, and free spirit.",
@@ -170,7 +170,7 @@ const majorArcana = [
   }
 ];
 
-const cups = [
+export const cups = [
   [
   {
     "title": "Ace of Cups",
@@ -274,7 +274,7 @@ const cups = [
 
 ];
 
-const pentacles = [
+export const pentacles = [
   {
     "title": "Ace of Pentacles",
     "description_upright": "A new financial or career opportunity, manifestation, abundance.",
@@ -369,11 +369,11 @@ const pentacles = [
   {
     "title": "King of Pentacles",
     "description_upright": "Wealth, business, leadership, security, discipline.",
-    "description_reversed": "Greed, indulgence, stubbornness, rigidity._
+    "description_reversed": "Greed, indulgence, stubbornness, rigidity.",
   }
 ];
 
-const swords = [
+export const swords = [
   {
     "title": "Ace of Swords",
     "description_upright": "Breakthroughs, clarity, sharp mind, new ideas.",
@@ -474,7 +474,7 @@ const swords = [
   }
 ];
 
-const wands = [
+export const wands = [
   {
     "title": "Ace of Wands",
     "description_upright": "Inspiration, new opportunities, growth, potential.",
