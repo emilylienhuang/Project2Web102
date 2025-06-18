@@ -42,7 +42,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='Project2Web102/tarot_dict/tarot_demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=`[tarot_demo](https://github.com/user-attachments/assets/bd88f485-bf41-4466-880f-3f851bafad58)
+' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
