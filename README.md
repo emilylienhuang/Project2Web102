@@ -1,4 +1,4 @@
-# Web Development Project 2 - *Name of App Here*
+# Web Development Project 2 - *Tarot Dictionary*
 
 Submitted by: **Emily Ng**
 
@@ -20,29 +20,29 @@ The following **required** functionality is completed:
 - [X] **A single card at a time is displayed**
   - [ X] Only one half of the information pair is displayed at a time
 - [X] **Clicking on the card flips the card over, showing the corresponding component of the information pair**
-  - [X ] Clicking on a card flips it over, showing the back with corresponding information 
-  - [ X] Clicking on a flipped card again flips it back, showing the front
-- [X ] **Clicking on the next button displays a random new card**
+  - [X] Clicking on a card flips it over, showing the back with corresponding information 
+  - [X] Clicking on a flipped card again flips it back, showing the front
+- [X] **Clicking on the next button displays a random new card**
 
 The following **optional** features are implemented:
 
 - [ ] Cards contain images in addition to or in place of text
   - [ ] Some or all cards have images in place of or in addition to text
-- [ X] Cards have different visual styles such as color based on their category
+- [X] Cards have different visual styles such as color based on their category
   - Example categories you can use:
     - Difficulty: Easy/medium/hard
     - Subject: Biology/Chemistry/Physics/Earth science
 
 The following **additional** features are implemented:
 
-* [ X] List anything else that you added to improve the site's functionality!
+* [X] List anything else that you added to improve the site's functionality!
 * Added buttons to divide out the suits, stylized the background, utilized circular arrays to account for edge cases
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src=`tarot_demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='tarot_demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
