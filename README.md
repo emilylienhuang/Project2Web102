@@ -11,15 +11,15 @@ Time spent: **8** hours spent in total
 The following **required** functionality is completed:
 
 
-- [ ] **The app displays the title of the card set, a short description, and the total number of cards**
-  - [ X] Title of card set is displayed 
-  - [ X] A short description of the card set is displayed 
-  - [X ] A list of card pairs is created
-  - [X ] The total number of cards in the set is displayed 
-  - [ X] Card set is represented as a list of card pairs (an array of dictionaries where each dictionary contains the question and answer is perfectly fine)
-- [ ] **A single card at a time is displayed**
+- [X] **The app displays the title of the card set, a short description, and the total number of cards**
+  - [X] Title of card set is displayed 
+  - [X] A short description of the card set is displayed 
+  - [X] A list of card pairs is created
+  - [X] The total number of cards in the set is displayed 
+  - [X] Card set is represented as a list of card pairs (an array of dictionaries where each dictionary contains the question and answer is perfectly fine)
+- [X] **A single card at a time is displayed**
   - [ X] Only one half of the information pair is displayed at a time
-- [ ] **Clicking on the card flips the card over, showing the corresponding component of the information pair**
+- [X] **Clicking on the card flips the card over, showing the corresponding component of the information pair**
   - [X ] Clicking on a card flips it over, showing the back with corresponding information 
   - [ X] Clicking on a flipped card again flips it back, showing the front
 - [X ] **Clicking on the next button displays a random new card**
@@ -42,8 +42,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src=`[tarot_demo](https://github.com/user-attachments/assets/bd88f485-bf41-4466-880f-3f851bafad58)
-' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=`tarot_demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
